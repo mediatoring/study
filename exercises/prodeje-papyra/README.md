@@ -1,8 +1,8 @@
-# Prodejni data PAPYRA Industry
+# Prodejní data PAPYRA Industry
 
-Milion radku fakturace za sest let. Najdi, proc firme letos poprve klesla marze.
+Milion řádků fakturace za šest let. Najdi, proč firmě letos poprvé klesla marže.
 
-**Obtížnost:** stredni · **Časová náročnost:** 8-12 hodin · **Nástroje:** Python, R, SQL, DuckDB, Power BI · **Témata:** cistka dat, marzova analyza, kohorty zakazniku, cenove rozklady
+**Obtížnost:** střední · **Časová náročnost:** 8-12 hodin · **Nástroje:** Python, R, SQL, DuckDB, Power BI · **Témata:** čištění dat, maržová analýza, kohorty zákazníků, cenové rozklady
 
 ## Zadání
 

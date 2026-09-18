@@ -215,6 +215,14 @@ tak, jak se citují.
 číslo, které ho dokládá, a jedno doporučení. Píšete pro člověka, který dataset nikdy
 neviděl a otevře váš text mezi dvěma schůzkami.
 
+## F. Volná úloha
+
+**31.** Předchozích třicet otázek vám řeklo, kam se podívat. Tahle ne. Najděte v datech příběh, na
+který se nikdo neptal, a vyprávějte ho: co se ve firmě dělo, z čeho to v datech poznáte a co by to
+znamenalo pro člověka, který ji řídí. Nemusí jít o velký objev. Musí to ale být tvrzení, které
+doložíte číslem, a nesmí to být převyprávění něčeho, co jste už spočítali výš. Počítejte s jedním
+grafem nebo tabulkou, třemi odstavci a kódem, kterým jste se k tomu dostali.
+
 ---
 
 ## Jak odevzdat
