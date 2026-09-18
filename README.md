@@ -6,8 +6,8 @@ Datová a analytická cvičení pro kurzy a workshopy. Každé cvičení má vla
 
 | Cvičení | O čem to je | Obtížnost | Data |
 |---|---|---|---|
-| [Analýzy, které vám přistály na stole](exercises/analyzy-na-stole/) | Šest hotových analýz nad prodejními daty. Některé sedí, některé ne. Zjisti které a dokaž to. | střední | – |
-| [Prodejní data PAPYRA Industry](exercises/prodeje-papyra/) | Milion řádků fakturace za šest let. Najdi, proč firmě letos poprvé klesla marže. | střední | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) |
+| 1. [Prodejní data PAPYRA Industry](exercises/prodeje-papyra/) | Milion řádků nevyčištěné fakturace za šest let. Jednatřicet otázek od prvního součtu po shrnutí pro vedení – a příběh, který si poskládáš sám. | střední | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) |
+| 2. [Analýzy, které vám přistály na stole](exercises/analyzy-na-stole/) | Šest hotových analýz nad prodejními daty. Některé sedí, některé ne. Zjisti které a dokaž to. | střední | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) (data cvičení Prodejní data PAPYRA Industry) |
 
 ## Jak s tím pracovat
 
