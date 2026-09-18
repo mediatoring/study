@@ -1,6 +1,6 @@
 # Prodejní data PAPYRA Industry
 
-Milion řádků nevyčištěné fakturace za šest let. Jednatřicet otázek od prvního součtu po shrnutí pro vedení – a příběh, který si poskládáš sám.
+Milion řádků fakturace tak, jak vypadla ze systému. Jednatřicet otázek od prvního součtu po shrnutí pro vedení – a příběh, který si poskládáš sám.
 
 **Obtížnost:** střední · **Časová náročnost:** 8-12 hodin · **Nástroje:** Python, R, SQL, DuckDB, Power BI · **Témata:** čištění dat, maržová analýza, kohorty zákazníků, cenové rozklady
 
