@@ -35,4 +35,6 @@ Nebo jednotlivě:
 
 ---
 
-Verze 1 · aktualizováno 2026-09-18 · generováno nástrojem `publish_exercise.py`, needituj ručně.
+Verze 1 · aktualizováno 2026-09-18
+
+<!-- Generováno nástrojem publish_exercise.py, needituj ručně. -->
