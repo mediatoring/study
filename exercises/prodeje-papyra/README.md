@@ -33,10 +33,6 @@ Nebo jednotlivě:
 
 - [slozit_dataset.py](slozit_dataset.py)
 
-## Řešení
-
-Klíč s řešením je v privátním repozitáři pro lektory. Pokud cvičení děláš sám a chceš si výsledek ověřit, napiš si o něj.
-
 ---
 
 Verze 1 · aktualizováno 2026-09-18 · generováno nástrojem `publish_exercise.py`, needituj ručně.
