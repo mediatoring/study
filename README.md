@@ -10,6 +10,7 @@ Datová a analytická cvičení pro kurzy a workshopy. Každé cvičení má vla
 | 2. [Analýzy, které vám přistály na stole](exercises/analyzy-na-stole/) | Šest hotových analýz nad prodejními daty. Některé sedí, některé ne. Zjisti které a dokaž to. | střední | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) (data cvičení Prodejní data PAPYRA Industry) |
 | 3. [Rozhodování z dat](exercises/rozhodovani-z-dat/) | Deset otázek, na které data nemají jedinou správnou odpověď. Vyber ukazatele, obhaj je a rozhodni. | těžká | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) (data cvičení Prodejní data PAPYRA Industry) |
 | 4. [Co běžný report neukáže](exercises/co-report-neukaze/) | Čtyři pohledy, které se do měsíčního reportu nevejdou: co se kupuje spolu, kdo platí kolik, na kom visí které výrobky a proč se dva závody nedají srovnat. | těžká | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) (data cvičení Prodejní data PAPYRA Industry) |
+| 5. [Řídicí report pro vedení PAPYRA](exercises/ridici-report/) | Firemní výzva: postav z prodejních dat report, podle kterého se dá rozhodovat, a otestuj ho na lidech, kteří data neviděli. | těžká | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) (data cvičení Prodejní data PAPYRA Industry) |
 
 ## Jak s tím pracovat
 
@@ -21,6 +22,6 @@ Zadání i data jsou k dispozici pod [CC BY 4.0](LICENSE). Data jsou syntetická
 
 ---
 
-Aktualizováno 2026-09-18
+Aktualizováno 2026-10-03
 
 <!-- Generováno nástrojem publish_exercise.py, needituj ručně. -->
