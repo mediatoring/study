@@ -1,6 +1,6 @@
 ---
 name: lanyze
-description: Pravidlo „lanýže“ pro přepis textu po připomínkách. Čtenář výsledného textu nikdy neuvidí konverzaci ani předchozí verze, proto přepis (1) nesmí nést žádnou stopu po tom, co se vyřadilo nebo o čem se diskutovalo, a (2) musí zachovat všechen úvod, kontext a strukturu původního textu a změnit jen tu část, které se připomínka týkala. Použij vždy, když uživatel vrací text k přepracování – „bez X“, „vynech X“, „tohle tam nedávej“, „přepiš to bez“, „oprav jen tu část“, „zapracuj připomínky vedoucího“, „čistá verze“, „finální verze“, „lanýže“ – a vždy, když předáváš přepracovaný text (seminárku, e-mail, dopis, článek, žádost), který bude číst někdo třetí. EN: revise without X, apply feedback, clean final version.
+description: "Pravidlo „lanýže“ pro přepis textu po připomínkách. Čtenář výsledného textu nikdy neuvidí konverzaci ani předchozí verze, proto přepis (1) nesmí nést žádnou stopu po tom, co se vyřadilo nebo o čem se diskutovalo, a (2) musí zachovat všechen úvod, kontext a strukturu původního textu a změnit jen tu část, které se připomínka týkala. Použij vždy, když uživatel vrací text k přepracování – „bez X“, „vynech X“, „tohle tam nedávej“, „přepiš to bez“, „oprav jen tu část“, „zapracuj připomínky vedoucího“, „čistá verze“, „finální verze“, „lanýže“ – a vždy, když předáváš přepracovaný text (seminárku, e-mail, dopis, článek, žádost), který bude číst někdo třetí. EN: revise without X, apply feedback, clean final version."
 ---
 
 # Lanýže

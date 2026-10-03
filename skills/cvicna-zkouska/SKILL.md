@@ -1,6 +1,6 @@
 ---
 name: cvicna-zkouska
-description: Cvičná zkouška nanečisto ve stylu konkrétního předmětu – test s výběrem odpovědí, otevřené otázky nebo příklady – s časovým limitem, bodováním a vyhodnocením až po odevzdání odpovědí. Vychází z nahraných podkladů a ukázek starších zkoušek, ukáže úspěšnost po tématech a na co se zaměřit. Použij vždy, když student chce zkoušku nanečisto, zkušební test, simulaci zkoušky, „vygeneruj mi test jako u zkoušky“, „mock exam“, „chci si to zkusit naostro“, nebo nahraje staré zkouškové zadání a chce podobné. EN: practice exam, mock exam, sample test, simulate the exam.
+description: "Cvičná zkouška nanečisto ve stylu konkrétního předmětu – test s výběrem odpovědí, otevřené otázky nebo příklady – s časovým limitem, bodováním a vyhodnocením až po odevzdání odpovědí. Vychází z nahraných podkladů a ukázek starších zkoušek, ukáže úspěšnost po tématech a na co se zaměřit. Použij vždy, když student chce zkoušku nanečisto, zkušební test, simulaci zkoušky, „vygeneruj mi test jako u zkoušky“, „mock exam“, „chci si to zkusit naostro“, nebo nahraje staré zkouškové zadání a chce podobné. EN: practice exam, mock exam, sample test, simulate the exam."
 ---
 
 # Cvičná zkouška

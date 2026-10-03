@@ -1,6 +1,6 @@
 ---
 name: plan-zkouskoveho
-description: Realistický plán přípravy na zkouškové nebo jednu zkoušku, den po dni, podle termínů, rozsahu látky, sebehodnocení v jednotlivých tématech a času, který student opravdu má. Staví na opakování s rozestupy, vybavování z paměti a cvičných zkouškách, nejslabší témata dává dopředu a počítá s rezervou a spánkem. Použij vždy, když student plánuje učení, píše „kdy se to mám naučit“, „nestíhám“, „udělej mi rozvrh na zkouškové“, „mám zkoušku za týden“, „jak si rozvrhnout učení“, nebo vyjmenuje termíny zkoušek. EN: study plan, exam schedule, revision timetable, I have an exam next week.
+description: "Realistický plán přípravy na zkouškové nebo jednu zkoušku, den po dni, podle termínů, rozsahu látky, sebehodnocení v jednotlivých tématech a času, který student opravdu má. Staví na opakování s rozestupy, vybavování z paměti a cvičných zkouškách, nejslabší témata dává dopředu a počítá s rezervou a spánkem. Použij vždy, když student plánuje učení, píše „kdy se to mám naučit“, „nestíhám“, „udělej mi rozvrh na zkouškové“, „mám zkoušku za týden“, „jak si rozvrhnout učení“, nebo vyjmenuje termíny zkoušek. EN: study plan, exam schedule, revision timetable, I have an exam next week."
 ---
 
 # Plán zkouškového

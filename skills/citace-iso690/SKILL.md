@@ -1,6 +1,6 @@
 ---
 name: citace-iso690
-description: Kontrola a úprava citací a seznamu literatury podle normy ČSN ISO 690 pro seminární, bakalářské a diplomové práce. Převede zdroje do správného formátu, doplní chybějící údaje jen tam, kde je lze ověřit, a označí zdroje, které se nepodařilo ověřit nebo mohou být vymyšlené. Použij vždy, když student chce zkontrolovat nebo naformátovat citace, seznam literatury, bibliografii, odkazy na zdroje, píše „ČSN ISO 690“, „ocituj“, „jak se to cituje“, nebo vkládá seznam zdrojů od AI. EN: check my citations, format references, bibliography, ISO 690.
+description: "Kontrola a úprava citací a seznamu literatury podle normy ČSN ISO 690 pro seminární, bakalářské a diplomové práce. Převede zdroje do správného formátu, doplní chybějící údaje jen tam, kde je lze ověřit, a označí zdroje, které se nepodařilo ověřit nebo mohou být vymyšlené. Použij vždy, když student chce zkontrolovat nebo naformátovat citace, seznam literatury, bibliografii, odkazy na zdroje, píše „ČSN ISO 690“, „ocituj“, „jak se to cituje“, nebo vkládá seznam zdrojů od AI. EN: check my citations, format references, bibliography, ISO 690."
 ---
 
 # Citace podle ČSN ISO 690

@@ -1,6 +1,6 @@
 ---
 name: humanizator
-description: Úprava vlastního textu tak, aby nezněl strojově – najde a odstraní typické znaky AI psaní v češtině i angličtině (nafouklý význam, propagační jazyk, pravidlo tří, vágní atribuce, monotónní rytmus, chatbotí fráze, a u češtiny anglický slovosled, kalky, nominalizaci a úřednický trpný rod). Zachová význam a fakta a nic nevymýšlí. Použij vždy, když uživatel píše „humanizuj“, „zní to jako AI“, „zní to jako ChatGPT“, „přepiš to lidsky“, „zkontroluj text na AI klišé“, „ať to zní přirozeně“, nebo chce učesat text, na kterém spolupracoval s AI. EN: humanize this, sounds like AI, remove AI patterns, make it sound natural.
+description: "Úprava vlastního textu tak, aby nezněl strojově – najde a odstraní typické znaky AI psaní v češtině i angličtině (nafouklý význam, propagační jazyk, pravidlo tří, vágní atribuce, monotónní rytmus, chatbotí fráze, a u češtiny anglický slovosled, kalky, nominalizaci a úřednický trpný rod). Zachová význam a fakta a nic nevymýšlí. Použij vždy, když uživatel píše „humanizuj“, „zní to jako AI“, „zní to jako ChatGPT“, „přepiš to lidsky“, „zkontroluj text na AI klišé“, „ať to zní přirozeně“, nebo chce učesat text, na kterém spolupracoval s AI. EN: humanize this, sounds like AI, remove AI patterns, make it sound natural."
 ---
 
 # Humanizátor: text, který zní jako vy

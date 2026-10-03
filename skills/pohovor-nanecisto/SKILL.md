@@ -1,6 +1,6 @@
 ---
 name: pohovor-nanecisto
-description: Simulace pracovního pohovoru nanečisto podle konkrétního inzerátu. AI hraje personalistu, klade po jedné otázce (motivační, behaviorální, odborné i nepříjemné), po každé odpovědi dá zpětnou vazbu a na konci shrne silná a slabá místa. Použij vždy, když uživatel chce trénovat pohovor, připravuje se na výběrové řízení, stáž nebo brigádu, píše „udělej se mnou pohovor“, „jsi personalista“, „na co se mě zeptají“, nebo vloží inzerát na pozici a chce se připravit. EN: mock interview, job interview practice, act as a recruiter.
+description: "Simulace pracovního pohovoru nanečisto podle konkrétního inzerátu. AI hraje personalistu, klade po jedné otázce (motivační, behaviorální, odborné i nepříjemné), po každé odpovědi dá zpětnou vazbu a na konci shrne silná a slabá místa. Použij vždy, když uživatel chce trénovat pohovor, připravuje se na výběrové řízení, stáž nebo brigádu, píše „udělej se mnou pohovor“, „jsi personalista“, „na co se mě zeptají“, nebo vloží inzerát na pozici a chce se připravit. EN: mock interview, job interview practice, act as a recruiter."
 ---
 
 # Pohovor nanečisto

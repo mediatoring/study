@@ -74,7 +74,7 @@ Tyto skills vám mají pomáhat se učit, ne odevzdávat práci za vás. Použit
 
 Skills si klidně upravte: dopište svůj předmět, obtížnost nebo tón. Dvě věci zachovejte, jinak skill nepůjde nahrát. Pole `name` musí být malými písmeny se spojovníky a shodovat se s názvem složky. Pole `description` říká, co skill dělá a kdy ho použít – podle něj AI pozná, že ho má zapnout.
 
-Pokud chcete ZIPy sestavit sami, spusťte `scripts/build_skills.sh`.
+Upravený skill nahrajete tak, že jeho složku zabalíte do ZIPu – složka se jménem skillu musí být v archivu na nejvyšší úrovni.
 
 ## Inspirace
 

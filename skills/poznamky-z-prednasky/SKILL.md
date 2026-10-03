@@ -1,6 +1,6 @@
 ---
 name: poznamky-z-prednasky
-description: Zpracování poznámek, slidů nebo přepisu z přednášky do přehledu hlavních pojmů, s upozorněním na to, co v poznámkách chybí nebo si odporuje, a s kontrolními otázkami na procvičení. Pracuje jen z nahraných podkladů a u každé položky uvádí, odkud pochází. Použij vždy, když student nahraje poznámky, slidy, skripta nebo přepis přednášky a chce z nich přehled, výpisky, shrnutí, pojmy, „co je důležité“, nebo se chce z přednášky učit. EN: lecture notes, summarize my slides, study notes.
+description: "Zpracování poznámek, slidů nebo přepisu z přednášky do přehledu hlavních pojmů, s upozorněním na to, co v poznámkách chybí nebo si odporuje, a s kontrolními otázkami na procvičení. Pracuje jen z nahraných podkladů a u každé položky uvádí, odkud pochází. Použij vždy, když student nahraje poznámky, slidy, skripta nebo přepis přednášky a chce z nich přehled, výpisky, shrnutí, pojmy, „co je důležité“, nebo se chce z přednášky učit. EN: lecture notes, summarize my slides, study notes."
 ---
 
 # Poznámky z přednášky

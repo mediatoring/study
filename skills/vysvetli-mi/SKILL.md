@@ -1,6 +1,6 @@
 ---
 name: vysvetli-mi
-description: Srozumitelné vysvětlení učiva, kterému student nerozumí – od jednoduchého příkladu ze života k odborné definici, s ověřením, že to student opravdu pochopil. Po vysvětlení požádá studenta, aby látku řekl vlastními slovy, a opraví ho. Použij vždy, když student píše „nerozumím“, „vysvětli mi“, „co je to“, „jak funguje“, „řekni mi to jednoduše“, „jako bych byl v prváku“, nebo když se v konverzaci ztrácí v odborném pojmu – i když přímo nežádá o vysvětlení. EN: explain this, I don't understand, explain like I'm a first-year student.
+description: "Srozumitelné vysvětlení učiva, kterému student nerozumí – od jednoduchého příkladu ze života k odborné definici, s ověřením, že to student opravdu pochopil. Po vysvětlení požádá studenta, aby látku řekl vlastními slovy, a opraví ho. Použij vždy, když student píše „nerozumím“, „vysvětli mi“, „co je to“, „jak funguje“, „řekni mi to jednoduše“, „jako bych byl v prváku“, nebo když se v konverzaci ztrácí v odborném pojmu – i když přímo nežádá o vysvětlení. EN: explain this, I don't understand, explain like I'm a first-year student."
 ---
 
 # Vysvětli mi

@@ -1,6 +1,6 @@
 ---
 name: karticky
-description: Tvorba kartiček na opakování z vlastních studijních podkladů (skripta, slidy, poznámky, kapitola) s exportem pro Anki nebo Quizlet. Kartičky nutí vysvětlovat, ne jen opakovat definice, obsahují i otázky na souvislosti mezi pojmy a jsou označené podle priority. Použij vždy, když student chce kartičky, flashcards, otázky na opakování, podklady do Anki nebo Quizletu, „pomoz mi se to naučit nazpaměť“, „udělej mi z toho opakovačku“, nebo nahraje podklady a chce se z nich učit dlouhodobě. EN: flashcards, Anki deck, spaced repetition cards, Quizlet set.
+description: "Tvorba kartiček na opakování z vlastních studijních podkladů (skripta, slidy, poznámky, kapitola) s exportem pro Anki nebo Quizlet. Kartičky nutí vysvětlovat, ne jen opakovat definice, obsahují i otázky na souvislosti mezi pojmy a jsou označené podle priority. Použij vždy, když student chce kartičky, flashcards, otázky na opakování, podklady do Anki nebo Quizletu, „pomoz mi se to naučit nazpaměť“, „udělej mi z toho opakovačku“, nebo nahraje podklady a chce se z nich učit dlouhodobě. EN: flashcards, Anki deck, spaced repetition cards, Quizlet set."
 ---
 
 # Kartičky

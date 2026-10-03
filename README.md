@@ -34,7 +34,7 @@ Dvanáct hotových skills, které z umělé inteligence udělají tutora a pomoc
 | [lanyze](skills/lanyze/SKILL.md) | Pravidlo pro přepis po připomínkách, který nenese stopu po vyřazeném. | [ZIP](https://github.com/mediatoring/study/releases/download/skills-v1/lanyze.zip) |
 | [pohovor-nanecisto](skills/pohovor-nanecisto/SKILL.md) | Pracovní pohovor podle konkrétního inzerátu, se zpětnou vazbou. | [ZIP](https://github.com/mediatoring/study/releases/download/skills-v1/pohovor-nanecisto.zip) |
 
-Podrobnosti najdete ve [složce skills](skills/): kde skills fungují, jak je nainstalovat v Claude, Gemini a ChatGPT, co si ověřit před instalací a jak je sladit s pravidly školy. Je tam i [anglická verze](skills/README.en.md). ZIPy si můžete sestavit sami skriptem `scripts/build_skills.sh`.
+Podrobnosti najdete ve [složce skills](skills/): kde skills fungují, jak je nainstalovat v Claude, Gemini a ChatGPT, co si ověřit před instalací a jak je sladit s pravidly školy. Je tam i [anglická verze](skills/README.en.md).
 
 ## Licence
 

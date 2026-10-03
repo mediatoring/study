@@ -76,7 +76,7 @@ These skills are meant to help you learn, not to hand in work for you. Disclose 
 
 Feel free to adapt the skills: add your course, difficulty or tone. Keep two things intact or the upload will fail. The `name` field must be lowercase with hyphens and match the folder name. The `description` field says what the skill does and when to use it – that is how the AI knows when to switch it on.
 
-To build the ZIPs yourself, run `scripts/build_skills.sh`.
+To upload an edited skill, zip its folder – the folder named after the skill has to sit at the top level of the archive.
 
 ## Credits
 

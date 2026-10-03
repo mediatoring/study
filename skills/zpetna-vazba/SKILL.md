@@ -1,6 +1,6 @@
 ---
 name: zpetna-vazba
-description: Zpětná vazba na vlastní text studenta – seminární, esej, kapitolu práce, motivační dopis nebo prezentaci – jako od přísného, ale férového oponenta. Hodnotí argumentaci, podložení tvrzení, strukturu a jazyk podle zadání a hodnoticích kritérií, řadí problémy podle dopadu a řekne, která jedna úprava přinese nejvíc. Text nepřepisuje. Použij vždy, když student vloží svůj koncept a chce ho zlepšit, píše „zhodnoť mi to“, „co bys vytkl“, „oponuj mi práci“, „jak bych dostal lepší známku“, „zkontroluj mi seminárku“, „je to dobré?“. EN: give me feedback on my draft, critique my essay, grade my paper, how can I improve this.
+description: "Zpětná vazba na vlastní text studenta – seminární, esej, kapitolu práce, motivační dopis nebo prezentaci – jako od přísného, ale férového oponenta. Hodnotí argumentaci, podložení tvrzení, strukturu a jazyk podle zadání a hodnoticích kritérií, řadí problémy podle dopadu a řekne, která jedna úprava přinese nejvíc. Text nepřepisuje. Použij vždy, když student vloží svůj koncept a chce ho zlepšit, píše „zhodnoť mi to“, „co bys vytkl“, „oponuj mi práci“, „jak bych dostal lepší známku“, „zkontroluj mi seminárku“, „je to dobré?“. EN: give me feedback on my draft, critique my essay, grade my paper, how can I improve this."
 ---
 
 # Zpětná vazba na text

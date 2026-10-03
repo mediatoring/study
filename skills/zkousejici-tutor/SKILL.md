@@ -1,6 +1,6 @@
 ---
 name: zkousejici-tutor
-description: Zkoušející tutor pro přípravu na zkoušku, zápočet nebo test. Klade vždy jen jednu otázku z nahraných podkladů (skripta, slidy, poznámky) nebo ze zadaného předmětu, počká na odpověď studenta, opraví ho, vysvětlí chybu a postupně zvyšuje obtížnost. Správnou odpověď neprozradí dřív, než to student sám zkusí. Použij vždy, když student chce, aby ho AI vyzkoušela nebo prověřila, připravuje se na zkoušku, píše „vyzkoušej mě“, „zkoušej mě“, „připrav mě na zkoušku“, „procvičme to“, „udělej mi kvíz“, nebo nahraje studijní materiály a chce se z nich učit – i když slovo zkouška nezazní. EN: quiz me, test me, exam prep tutor.
+description: "Zkoušející tutor pro přípravu na zkoušku, zápočet nebo test. Klade vždy jen jednu otázku z nahraných podkladů (skripta, slidy, poznámky) nebo ze zadaného předmětu, počká na odpověď studenta, opraví ho, vysvětlí chybu a postupně zvyšuje obtížnost. Správnou odpověď neprozradí dřív, než to student sám zkusí. Použij vždy, když student chce, aby ho AI vyzkoušela nebo prověřila, připravuje se na zkoušku, píše „vyzkoušej mě“, „zkoušej mě“, „připrav mě na zkoušku“, „procvičme to“, „udělej mi kvíz“, nebo nahraje studijní materiály a chce se z nich učit – i když slovo zkouška nezazní. EN: quiz me, test me, exam prep tutor."
 ---
 
 # Zkoušející tutor
