@@ -93,7 +93,12 @@ a k tomu jednu větu o tom, jak by se ten seznam změnil, kdybyste definici post
 ### Volitelné úlohy
 
 K povinné trojici přidejte jednu až dvě další úlohy z cvičení
-[Rozhodování z dat](../rozhodovani-z-dat/). Vyberte si takové, které váš report skutečně unese.
+[Rozhodování z dat](../rozhodovani-z-dat/). Povinná rozhodnutí 1, 2 a 3 z tohohle zadání
+odpovídají úlohám 1, 3 a 4 toho cvičení, takže vybírejte z ostatních – číslování se mezi oběma
+dokumenty nekryje. Vyberte si takové, které váš report skutečně unese.
+
+Na pitch se navíc hodí úloha 10, tedy najít pravdivé číslo, kterým se dá vedení oklamat. Povinná
+není, ale obhajoba, ve které ukážete, že váš report takovému číslu nenaletí, stojí o patro výš.
 
 ## Data
 

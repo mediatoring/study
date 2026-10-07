@@ -31,6 +31,6 @@ Nebo jednotlivě:
 
 ---
 
-Verze 1 · aktualizováno 2026-10-03
+Verze 1 · aktualizováno 2026-10-07
 
 <!-- Generováno nástrojem publish_exercise.py, needituj ručně. -->
