@@ -6,6 +6,7 @@ Materiály pro kurzy a workshopy Mediatoring: datová a analytická cvičení a 
 
 Každé cvičení má vlastní složku se zadáním, data visí u příslušného release.
 
+<!-- cviceni:start -->
 | Cvičení | O čem to je | Obtížnost | Data |
 |---|---|---|---|
 | 1. [Prodejní data PAPYRA Industry](exercises/prodeje-papyra/) | Milion řádků fakturace tak, jak vypadla ze systému. Jednatřicet otázek od prvního součtu po shrnutí pro vedení – a příběh, který si poskládáš sám. | střední | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) |
@@ -13,6 +14,7 @@ Každé cvičení má vlastní složku se zadáním, data visí u příslušnéh
 | 3. [Rozhodování z dat](exercises/rozhodovani-z-dat/) | Deset otázek, na které data nemají jedinou správnou odpověď. Vyber ukazatele, obhaj je a rozhodni. | těžká | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) (data cvičení Prodejní data PAPYRA Industry) |
 | 4. [Co běžný report neukáže](exercises/co-report-neukaze/) | Čtyři pohledy, které se do měsíčního reportu nevejdou: co se kupuje spolu, kdo platí kolik, na kom visí které výrobky a proč se dva závody nedají srovnat. | těžká | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) (data cvičení Prodejní data PAPYRA Industry) |
 | 5. [Řídicí report pro vedení PAPYRA](exercises/ridici-report/) | Firemní výzva: postav z prodejních dat report, podle kterého se dá rozhodovat, a otestuj ho na lidech, kteří data neviděli. | těžká | [74.7 MB](https://github.com/mediatoring/study/releases/tag/prodeje-papyra-v1) (data cvičení Prodejní data PAPYRA Industry) |
+<!-- cviceni:end -->
 
 Otevři složku cvičení, přečti `zadani.md` a stáhni data skriptem `stahni_data.py` z té samé složky. Nástroje jsou na tobě – Python, R, SQL, DuckDB, Power BI i Excel, cokoli, čím se dostaneš k výsledku.
 
